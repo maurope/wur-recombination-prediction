@@ -23,9 +23,13 @@ The datasets and analyses cover:
 
 Folder names reflect the type of training features used in each analysis:
 
+
 - **k-mers**: k-mers length 3
+
 - **expression**: expression elements
+
 - **repetitive**: repetitive elements
+
 - **all**: all feature types combined
 
 Each subfolder contains results and models corresponding to the respective input features.
