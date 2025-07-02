@@ -22,6 +22,7 @@ The datasets and analyses cover:
 - An **interspecific dataset** of tomato (*Solanum lycopersicum × S. pimpinellifolium* cross)
 
 Folder names reflect the type of training features used in each analysis:
+
 - **k-mers**: k-mers length 3
 - **expression**: expression elements
 - **repetitive**: repetitive elements
