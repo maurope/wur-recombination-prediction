@@ -25,10 +25,12 @@ Folder names reflect the type of training features used in each analysis:
 - **all**: all feature types combined
 
 Each subfolder contains results and models corresponding to the respective input features.
+
 ---
 
 ## 🚀 Setup
 ------
+
 Clone the repository::
 
   git clone git@github.com:maurope/wur-recombination-prediction.git
@@ -36,9 +38,11 @@ Clone the repository::
 
 ## 📁 Requirements
 ------------
+
 Install all of the modules listed in the Python requirements file into the project environment::
 
   pip install -r requirements.txt
+
 
 ## 📌 Notes
 
