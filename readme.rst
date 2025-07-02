@@ -1,17 +1,17 @@
 WUR Recombination Prediction Project
 =============
 
-> **Author**: Mauricio Peñuela\
-> **Last update**: 02/07/25
+ **Author**: Mauricio Peñuela\
+ **Last update**: 02/07/25
 
----
+
 
 📘 Overview
 ------
 
 This repository contains **dataframes**, **code**, **results**, and **figures** for data exploration, model training, and validation related to the **recombination prediction project** from the *Genome Biology Unit*, Graduate School of Experimental Plant Sciences, **Wageningen University**.
 
----
+
 
 🧬 Data Description
 ------
@@ -29,7 +29,7 @@ Folder names reflect the type of training features used in each analysis:
 
 Each subfolder contains results and models corresponding to the respective input features.
 
----
+
 
 🚀 Setup
 ------
@@ -53,7 +53,7 @@ Install all of the modules listed in the Python requirements file into the proje
 - All analyses are conducted in Python using Jupyter Notebooks.
 - Make sure to use an updated Python version (3.9+ recommended).
 
----
+
 
 📄 License
 ------
@@ -64,5 +64,5 @@ You may freely use and adapt the materials, provided appropriate attribution is 
 For questions or collaborative opportunities, feel free to reach out to the author.
 
 
----
+
 
