@@ -1,4 +1,4 @@
-WUR Recombination Prediction Project
+WUR Recombination Prediction Repository
 =============
 
 * Written by: Mauricio Peñuela\
