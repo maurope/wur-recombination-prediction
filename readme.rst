@@ -68,7 +68,7 @@ You may freely use and adapt the materials, provided appropriate attribution is 
 
 For questions or collaborative opportunities, feel free to reach out to the author.
 
-📄 Publications
+🎓 Publications
 ------
 
 `Penuela, M. Bonnema, G. Auxier, B. Bouwmeester, K. van Peer, A. Schouten, H. Peters, S. van Dijk, A. D. J. Bai, Y. de Ridder, D. 2026 .Genome-based prediction of recombination within and between plant species: insights
