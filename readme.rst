@@ -72,7 +72,7 @@ For questions or collaborative opportunities, feel free to reach out to the auth
 ------
 
 `Penuela, M. Bonnema, G. Auxier, B. Bouwmeester, K. van Peer, A. Schouten, H. Peters, S. van Dijk, A. D. J. Bai, Y. de Ridder, D. 2026 .Genome-based prediction of recombination within and between plant species: insights
-from Brassica oleracea recombinant populations and an interspecific tomato cross (Solanum lycopersicum × S. pimpinellifolium). BMC Plant Biology <https://link.springer.com/article/10.1186/s12870-025-07922-8>`_
+from Brassica oleracea recombinant populations and an interspecific tomato cross (Solanum lycopersicum × S. pimpinellifolium). BMC Plant Biology 26: 246 <https://link.springer.com/article/10.1186/s12870-025-07922-8>`_
 
 
 
